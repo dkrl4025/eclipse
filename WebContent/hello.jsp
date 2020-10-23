@@ -3,7 +3,7 @@
 <title>Welcome</title>
 </head>
 <body>
-	<h1>eclipse</h1>
+	<h1>두번째</h1>
 	Hello! Java Server Pages.
 </body>
 </html>
